@@ -31,3 +31,5 @@
   <@hst.cmseditmenu menu=menu/>
 </div>
 </#if>
+
+<@hst.include ref="visitor-info" />

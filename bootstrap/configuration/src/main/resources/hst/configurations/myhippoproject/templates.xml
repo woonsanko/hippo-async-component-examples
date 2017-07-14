@@ -58,4 +58,12 @@
       <sv:value>webfile:/freemarker/hstdefault/newspage-main.ftl</sv:value>
     </sv:property>
   </sv:node>
+  <sv:node sv:name="visitor-info">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>webfile:/freemarker/myhippoproject/visitor-info.ftl</sv:value>
+    </sv:property>
+  </sv:node>
 </sv:node>
