@@ -210,6 +210,10 @@
     <appender-ref ref="messages"/>
   </logger>
 
+  <logger name="org.example">
+    <level value="debug" />
+  </logger>
+
   <root>
     <level value="warn"/>
     <appender-ref ref="site"/>
