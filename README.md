@@ -25,13 +25,7 @@ To show how
 ### Phase 2
 
 - ```esiasyncdemo/phase-2```
-- Enabled HST Page Caching in configuration.
-- Now, even if you refresh [http://localhost:8080/site/](http://localhost:8080/site/),
-  you will see the same data in the yellow component window below the top menu.
-
-### Phase 3
-
-- ```esiasyncdemo/phase-3```
+- Enabled HST Page Caching in configuration. ```hst:cacheable=true```.
 - Set ```visitor-info``` component to ```hst:async=true``` and ```hst:asyncmode=esi```.
 - Add HST ESI Processor related configuration in ```hst-config.properties```.
 - Now, whenever you refresh [http://localhost:8080/site/](http://localhost:8080/site/),
