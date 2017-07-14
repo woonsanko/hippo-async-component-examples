@@ -1,0 +1,126 @@
+{
+  "hippo:templates":   {
+    "en":     {
+      "new-news-document": "new news item",
+      "new-resource-bundle": "new resource bundle",
+      "new-news-folder": "new news item folder",
+      "new-untranslated-folder": "new untranslated folder",
+      "new-events-folder": "new events folder",
+      "new-events-document": "new event"
+    },
+    "nl":     {
+      "new-news-document": "nieuw nieuwsbericht",
+      "new-resource-bundle": "nieuwe resource bundle",
+      "new-news-folder": "nieuwe nieuwsmap",
+      "new-untranslated-folder": "nieuwe onvertaalde map",
+      "new-events-folder": "nieuwe evenementenmap",
+      "new-events-document": "nieuw evenement"
+    },
+    "de":     {
+      "new-news-document": "Neue News",
+      "new-resource-bundle": "Neues Resource-Bundle",
+      "new-news-folder": "Neuer News-Ordner",
+      "new-untranslated-folder": "Neuer nicht übersetzter Ordner",
+      "new-events-folder": "Neuer Events-Ordner",
+      "new-events-document": "Neues Event"
+    },
+    "fr":     {
+      "new-news-document": "nouveau message d'info",
+      "new-resource-bundle": "nouveau resource bundle",
+      "new-news-folder": "nouveau dossier messages d'info",
+      "new-untranslated-folder": "nouveau dossier non traduit",
+      "new-events-folder": "nouveau dossier événements",
+      "new-events-document": "nouvel événement"
+    }
+  },
+  "hippo:types":   {
+    "myhippoproject:eventsdocument":     {
+      "en":       {
+        "myhippoproject:enddate": "End date",
+        "jcr:name": "Event",
+        "myhippoproject:location": "Location",
+        "myhippoproject:image": "Image",
+        "myhippoproject:content": "Content",
+        "myhippoproject:title": "Title",
+        "myhippoproject:date": "Start date",
+        "myhippoproject:introduction": "Introduction"
+      },
+      "nl":       {
+        "myhippoproject:enddate": "Einddatum",
+        "jcr:name": "Evenement",
+        "myhippoproject:location": "Locatie",
+        "myhippoproject:image": "Afbeelding",
+        "myhippoproject:content": "Inhoud",
+        "myhippoproject:title": "Titel",
+        "myhippoproject:date": "Startdatum",
+        "myhippoproject:introduction": "Introductie"
+      },
+      "fr":       {
+        "myhippoproject:enddate": "Date de fin",
+        "jcr:name": "Événement",
+        "myhippoproject:location": "Lieu",
+        "myhippoproject:image": "Image",
+        "myhippoproject:content": "Contenu",
+        "myhippoproject:title": "Titre",
+        "myhippoproject:date": "Date de début",
+        "myhippoproject:introduction": "Introduction"
+      },
+      "de":       {
+        "myhippoproject:enddate": "Enddatum",
+        "jcr:name": "Event",
+        "myhippoproject:location": "Standort",
+        "myhippoproject:image": "Abbildung",
+        "myhippoproject:content": "Inhalt",
+        "myhippoproject:title": "Titel",
+        "myhippoproject:date": "Startdatum",
+        "myhippoproject:introduction": "Einführung"
+      }
+    },
+    "myhippoproject:newsdocument":     {
+      "en":       {
+        "myhippoproject:source": "Source",
+        "jcr:name": "News Item",
+        "myhippoproject:author": "Author",
+        "myhippoproject:location": "Location",
+        "myhippoproject:image": "Image",
+        "myhippoproject:content": "Content",
+        "myhippoproject:title": "Title",
+        "myhippoproject:date": "Date",
+        "myhippoproject:introduction": "Introduction"
+      },
+      "nl":       {
+        "myhippoproject:source": "Bron",
+        "jcr:name": "Nieuwsbericht",
+        "myhippoproject:author": "Auteur",
+        "myhippoproject:location": "Locatie",
+        "myhippoproject:image": "Afbeelding",
+        "myhippoproject:content": "Inhoud",
+        "myhippoproject:title": "Titel",
+        "myhippoproject:date": "Datum",
+        "myhippoproject:introduction": "Introductie"
+      },
+      "de":       {
+        "myhippoproject:source": "Quelle",
+        "jcr:name": "News",
+        "myhippoproject:author": "Verfasser",
+        "myhippoproject:location": "Standort",
+        "myhippoproject:image": "Abbildung",
+        "myhippoproject:content": "Inhalt",
+        "myhippoproject:title": "Titel",
+        "myhippoproject:date": "Datum",
+        "myhippoproject:introduction": "Einführung"
+      },
+      "fr":       {
+        "myhippoproject:source": "Source",
+        "jcr:name": "Message d'info",
+        "myhippoproject:author": "Auteur",
+        "myhippoproject:location": "Lieu",
+        "myhippoproject:image": "Image",
+        "myhippoproject:content": "Contenu",
+        "myhippoproject:title": "Titre",
+        "myhippoproject:date": "Date",
+        "myhippoproject:introduction": "Introduction"
+      }
+    }
+  }
+}
